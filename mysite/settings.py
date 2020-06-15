@@ -55,7 +55,7 @@ ROOT_URLCONF = 'mysite.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['blog/templetes'],
+        'DIRS': ['obrbt.pythonanywhere.com/blog/templetes'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
